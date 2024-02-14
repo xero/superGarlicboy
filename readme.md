@@ -1,26 +1,27 @@
 # super garlicboy
 
-a garlic os theme for the rg35xx handheld emulation console based on the dmg gameboy color pallet.
+a [garlic os](https://www.patreon.com/posts/garlicos-for-76561333) theme for the [rg35xx](https://amzn.to/3OEKSaj) handheld emulation console based on the dmg gameboy color palette.
 
 trying to capture that retro-futurist portable arcade aesthetic we were promised.
 
 ## contents
 
-* [super garlicboy](https://github.com/xero/garlicboy/tree/main#super-garlicboy)
-    * [previews](https://github.com/xero/garlicboy/tree/main#previews)
-    * [dmg inspired color pallet](https://github.com/xero/garlicboy/tree/main#dmg-inspired-color-pallet)
-* [download](https://github.com/xero/garlicboy/tree/main#download)
-* [install](https://github.com/xero/garlicboy/tree/main?tab=readme-ov-file#install)
-    * [theme](https://github.com/xero/garlicboy/tree/main?tab=readme-ov-file#theme)
-    * [boot logo](https://github.com/xero/garlicboy/tree/main?tab=readme-ov-file#boot-logo)
-    * [retroarch colors](https://github.com/xero/garlicboy/tree/main?tab=readme-ov-file#retroarch-colors)
-* [device setup](https://github.com/xero/garlicboy/tree/main?tab=readme-ov-file#device-setup)
-    * [bios](https://github.com/xero/garlicboy/tree/main?tab=readme-ov-file#bios)
-    * [roms](https://github.com/xero/garlicboy/tree/main?tab=readme-ov-file#roms)
-* [meta](https://github.com/xero/garlicboy/tree/main?tab=readme-ov-file#meta)
-    * [origin story](https://github.com/xero/garlicboy/tree/main?tab=readme-ov-file#origin-story)
-    * [credits](https://github.com/xero/garlicboy/tree/main?tab=readme-ov-file#credits)
-    * [license](https://github.com/xero/garlicboy/tree/main?tab=readme-ov-file#license)
+* __[super garlicboy](#super-garlicboy)__
+    * [previews](#previews)
+    * [dmg inspired color palette](#dmg-inspired-color-palette)
+    * [rad wallpaper](#rad-wallpaper)
+* __[download](#download)__
+* __[install](#install)__
+    * [theme](#theme)
+    * [boot logo](#boot-logo)
+    * [retroarch colors](#retroarch-colors)
+* __[device setup](#device-setup)__
+    * [bios](#bios)
+    * [roms](#roms)
+* __[meta](#meta)__
+    * [origin story](#origin-story)
+    * [credits](#credits)
+    * [license](#license)
 
 ---
 
@@ -37,16 +38,21 @@ trying to capture that retro-futurist portable arcade aesthetic we were promised
 <img src="https://github.com/xero/garlicboy/blob/previews/img/quick-menu.jpg?raw=true" width="350" height="350" align="left">
 <img src="https://github.com/xero/garlicboy/blob/previews/img/bootlogo.jpg?raw=true" width="350" height="350">
 
+sorry these are photos of the console. i cant figure out how to take screenshots outside of retroarch
 
 ---
 
-## dmg inspired color pallet
+## dmg inspired color palette
 
 <img src="https://github.com/xero/garlicboy/blob/previews/img/dmg-colors.png?raw=true">
 
 `#4d533c` `#8b956d` `#9a9e3f` `#c4cfa1`
 
 `#1b2a09` `#1f1f1f` `#0e450b` `#496b22`
+
+## rad wallpaper
+
+<img src="https://github.com/xero/garlicboy/blob/main/skin/background.png?raw=true">
 
 # download
 
@@ -106,7 +112,7 @@ but a better idea is to search the full console sets, and just grab the individu
 
 ## origin story
 
-i love customizing my stuff. after creating my dmg colorscheme for retroarch, i wanted to use it all over my retro console. the [onionboy hd theme](https://rg35xx.com/en/customization/garlicos-themes/) i was already using was pretty awesome, but much of the pixel art was catered to the miyoo mini. i started making small edits. changing onions to garlic and "mini" to "double x", all while subtly adjusting the colors. after a bit, i started hating the text on the main menu. so i resized and positioned all the images and removed the names. the game console icon set is one of the most popular you find in retroarch packs, because it's awesome. it's been curated by many talented artists. i updated pico 8 to the proper fantasy console artwork from the manual and did some other hatchet work to make them fit my theme's highlighting and personal taste. then created some more icons for the file manager, rom seach, and terminal apps i use. next i updated the gradient overlays to a dithered pixilated style and colors. and updated the d-pad navigation icon to look more nintendo-esque. finding the perfect wallpaper to match the vibe was a challenge. but i eventually typed "outrun pixel" into big-g and found a real gem. [the image](https://64.media.tumblr.com/8fc2f0787a39cfa8032c98986578fa78/tumblr_p8f7umWoYS1tlcqgyo1_1280.png) was freely released so i demixed it, lowering the color count and adjusting it to my dmg pallet, adding new dithering effects, and a few subtle layout tweaks. the author ever said she dug it [on x](https://x.com/mentalpoppixels/status/1755033910285611313?)! finally, to round the whole thing off, a custom garlic boot logo.
+i love customizing my stuff. after creating my dmg colorscheme for retroarch, i wanted to use it all over my retro console. the [onionboy hd theme](https://rg35xx.com/en/customization/garlicos-themes/) i was already using was pretty awesome, but much of the pixel art was catered to the miyoo mini. i started making small edits. changing onions to garlic and "mini" to "double x", all while subtly adjusting the colors. after a bit, i started hating the text on the main menu. so i resized and positioned all the images and removed the names. the game console icon set is one of the most popular you find in retroarch packs, because it's awesome. it's been curated by many talented artists. i updated pico 8 to the proper fantasy console artwork from the manual and did some other hatchet work to make them fit my theme's highlighting and personal taste. then created some more icons for the file manager, rom seach, and terminal apps i use. next i updated the gradient overlays to a dithered pixilated style and colors. and updated the d-pad navigation icon to look more nintendo-esque. finding the perfect wallpaper to match the vibe was a challenge. but i eventually typed "outrun pixel" into big-g and found a real gem. [the image](https://64.media.tumblr.com/8fc2f0787a39cfa8032c98986578fa78/tumblr_p8f7umWoYS1tlcqgyo1_1280.png) was freely released so i demixed it, lowering the color count and adjusting it to my dmg palette, adding new dithering effects, and a few subtle layout tweaks. the author ever said she dug it [on x](https://x.com/mentalpoppixels/status/1755033910285611313?)! finally, to round the whole thing off, a custom garlic boot logo.
 
 ## credits
 

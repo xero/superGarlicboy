@@ -10,7 +10,10 @@
 <img src="https://github.com/xero/garlicboy/blob/previews/img/overlays.jpg?raw=true" width="300" height="300" align="left" padding="4">
 <img src="https://github.com/xero/garlicboy/blob/previews/img/quick-menu.jpg?raw=true" width="300" height="300" align="left" padding="4">
 <img src="https://github.com/xero/garlicboy/blob/previews/img/retroarch.jpg?raw=true" width="300" height="300" align="left" padding="4">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/menu-fav.jpg?raw=true" width="300" height="300" align="left" padding="4">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/menu-fav.jpg?raw=true" width="300" height="300" padding="4">
+
+
+---
 
 ## dmg inspired color pallet
 

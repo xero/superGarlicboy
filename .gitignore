@@ -1,0 +1,37 @@
+#𝘪𝘨𝘯𝘰𝘳𝘦 𝘮𝘦!
+$RECYCLE.BIN/
+*.bak
+*-bak
+*.cab
+*.lnk
+*.msi
+*.msix
+*.msm
+*.msp
+*.stackdump
+*~
+.AppleDB
+.AppleDouble
+.DS_Store
+.DocumentRevisions-V100
+.LSOverride
+.Spotlight-V100
+.TemporaryItems
+.Trash-*
+.Trashes
+.VolumeIcon.icns
+._*
+.apdisk
+.com.apple.timemachine.donotpresent
+.directory
+.fseventsd
+.fuse_hidden*
+.nfs*
+Icon
+Network Trash Folder
+Temporary Items
+Thumbs.db
+Thumbs.db:encryptable
+[Dd]esktop.ini
+ehthumbs.db
+ehthumbs_vista.db

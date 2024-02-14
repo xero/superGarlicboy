@@ -1,20 +1,20 @@
 
 ## previews
 
-<img src="https://github.com/xero/garlicboy/blob/previews/img/menu-game.jpg?raw=true" width="100" height="100">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/bootlogo.jpg?raw=true" width="100" height="100">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/consoles.jpg?raw=true" width="100" height="100">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/games.jpg?raw=true" width="100" height="100">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/apps-search.jpg?raw=true" width="100" height="100">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/recents.jpg?raw=true" width="100" height="100">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/overlays.jpg?raw=true" width="100" height="100">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/quick-menu.jpg?raw=true" width="100" height="100">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/retroarch.jpg?raw=true" width="100" height="100">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/menu-fav.jpg?raw=true" width="100" height="100">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/menu-game.jpg?raw=true" width="100" height="100" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/bootlogo.jpg?raw=true" width="100" height="100" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/consoles.jpg?raw=true" width="100" height="100" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/games.jpg?raw=true" width="100" height="100" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/apps-search.jpg?raw=true" width="100" height="100" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/recents.jpg?raw=true" width="100" height="100" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/overlays.jpg?raw=true" width="100" height="100" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/quick-menu.jpg?raw=true" width="100" height="100" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/retroarch.jpg?raw=true" width="100" height="100" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/menu-fav.jpg?raw=true" width="100" height="100" align="left">
 
 ## dmg inspired color pallet
 
-<img src="https://github.com/xero/garlicboy/blob/previews/img/dmg-colors.png?raw=true" width="100" height="100">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/dmg-colors.png?raw=true">
 
 `#4d533c` `#8b956d` `#9a9e3f` `#c4cfa1`
 

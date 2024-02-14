@@ -2,17 +2,29 @@
 
 a garlic os theme for the rg35xx handheld emulation console based on the dmg gameboy color pallet that's trying to capture that retro-futurist portable arcade aesthetic we were promised.
 
-# dmg inspired color pallet
+## previews
 
-`#1b2a09`
-`#1f1f1f`
-`#0e450b`
-`#496b22`
-`#4d533c`
-`#8b956d`
-`#9a9e3f`
-`#c4cfa1`
+<img src="https://github.com/xero/garlicboy/blob/previews/img/menu-game.jpg?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/consoles.jpg?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/games.jpg?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/apps-search.jpg?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/retroarch.jpg?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/recents.jpg?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/overlays.jpg?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/menu-fav.jpg?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/quick-menu.jpg?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/bootlogo.jpg?raw=true" width="350" height="350">
 
+
+---
+
+## dmg inspired color pallet
+
+<img src="https://github.com/xero/garlicboy/blob/previews/img/dmg-colors.png?raw=true">
+
+`#4d533c` `#8b956d` `#9a9e3f` `#c4cfa1`
+
+`#1b2a09` `#1f1f1f` `#0e450b` `#496b22`
 
 # download
 
@@ -20,7 +32,7 @@ https://github.com/xero/supergarlicboy
 
 # install
 
-this theme is for garlic os. so it assumes you have already installed it. [follow the guide here](https://www.patreon.com/posts/garlicos-for-76561333).
+this theme is for garlic os, so it assumes you have already installed it. [follow the guide here](https://www.patreon.com/posts/garlicos-for-76561333).
 
 ## theme
 
@@ -30,7 +42,9 @@ copy the contents of the `skin` folder to your `ROMS` partition under `/CFW/skin
 
 copy the `retroarch/garlic.cfg` file to your `ROMS` partition under `/CFW/retroarch/.retroarch/assets/rgui`
 
-to enable it: launch retro arch's setting, then select `User Interface` -> `Appearance` -> `Menu Color Theme` -> `Custom`. Then under `Custom Menu Theme` select `garlic`
+to enable it: launch retro arch's setting, then select
+
+`User Interface` -> `Appearance` -> `Menu Color Theme` -> `Custom`. Then under `Custom Menu Theme` select `garlic`
 
 ## boot logo
 
@@ -38,11 +52,11 @@ copy the `boot/boot_logo.bmp.gz` file to the root of your `MISC` partition
 
 # setup
 
-my theme should already be good to go at this point. this section of the guide i will suggest further optional device setup.
+my theme should be good to go at this point. in this section of the guide i will suggest further optional device setup.
 
 ## bios
 
-think of bios files are retroarch's implementation of the retro console's firmware. [download the newest bios files](https://archive.org/details/bios_RG353) for all compatible consoles and put them in your `ROMS` partition under `BIOS`
+think of bios files as retroarch's (the emulator's) implementation of the retro console's firmware. [download the newest bios files](https://archive.org/details/bios_RG353) for all compatible consoles and put them in your `ROMS` partition under `BIOS`
 
 ## roms
 

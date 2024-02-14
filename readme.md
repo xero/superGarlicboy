@@ -1,6 +1,28 @@
 # super garlicboy
 
-a garlic os theme for the rg35xx handheld emulation console based on the dmg gameboy color pallet that's trying to capture that retro-futurist portable arcade aesthetic we were promised.
+a garlic os theme for the rg35xx handheld emulation console based on the dmg gameboy color pallet.
+
+trying to capture that retro-futurist portable arcade aesthetic we were promised.
+
+## contents
+
+* [super garlicboy](https://github.com/xero/garlicboy/tree/main#super-garlicboy)
+    * [previews](https://github.com/xero/garlicboy/tree/main#previews)
+    * [dmg inspired color pallet](https://github.com/xero/garlicboy/tree/main#dmg-inspired-color-pallet)
+* [download](https://github.com/xero/garlicboy/tree/main#download)
+* [install](https://github.com/xero/garlicboy/tree/main?tab=readme-ov-file#install)
+    * [theme](https://github.com/xero/garlicboy/tree/main?tab=readme-ov-file#theme)
+    * [boot logo](https://github.com/xero/garlicboy/tree/main?tab=readme-ov-file#boot-logo)
+    * [retroarch colors](https://github.com/xero/garlicboy/tree/main?tab=readme-ov-file#retroarch-colors)
+* [device setup](https://github.com/xero/garlicboy/tree/main?tab=readme-ov-file#device-setup)
+    * [bios](https://github.com/xero/garlicboy/tree/main?tab=readme-ov-file#bios)
+    * [roms](https://github.com/xero/garlicboy/tree/main?tab=readme-ov-file#roms)
+* [meta](https://github.com/xero/garlicboy/tree/main?tab=readme-ov-file#meta)
+    * [origin story](https://github.com/xero/garlicboy/tree/main?tab=readme-ov-file#origin-story)
+    * [credits](https://github.com/xero/garlicboy/tree/main?tab=readme-ov-file#credits)
+    * [license](https://github.com/xero/garlicboy/tree/main?tab=readme-ov-file#license)
+
+---
 
 ## previews
 
@@ -36,7 +58,11 @@ this theme is for garlic os, so it assumes you have already installed it. [follo
 
 ## theme
 
-copy the contents of the `skin` folder to your `ROMS` partition under `/CFW/skin/`
+copy the the `skin`, `font`, and `lang` folders to your `ROMS` partition under `/CFW/skin/`
+
+## boot logo
+
+copy the `boot/boot_logo.bmp.gz` file to the root of your `MISC` partition
 
 ## retroarch colors
 
@@ -44,15 +70,13 @@ copy the `retroarch/garlic.cfg` file to your `ROMS` partition under `/CFW/retroa
 
 to enable it: launch retro arch's setting, then select
 
-`User Interface` -> `Appearance` -> `Menu Color Theme` -> `Custom`. Then under `Custom Menu Theme` select `garlic`
+`User Interface` -> `Appearance` -> `Menu Color Theme` -> `Custom`
 
-## boot logo
+then under `Custom Menu Theme` select `garlic`
 
-copy the `boot/boot_logo.bmp.gz` file to the root of your `MISC` partition
+# device setup
 
-# setup
-
-my theme should be good to go at this point. in this section of the guide i will suggest further optional device setup.
+in this section of the guide i will suggest further optional device setup.
 
 ## bios
 

@@ -1,16 +1,16 @@
 
 ## previews
 
-<img src="https://github.com/xero/garlicboy/blob/previews/img/menu-game.jpg?raw=true" width="325" height="325" align="left" padding="6">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/consoles.jpg?raw=true" width="325" height="325" align="left" padding="6">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/games.jpg?raw=true" width="325" height="325" align="left" padding="6">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/apps-search.jpg?raw=true" width="325" height="325" align="left" padding="6">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/retroarch.jpg?raw=true" width="325" height="325" align="left" padding="6">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/recents.jpg?raw=true" width="325" height="325" align="left" padding="6">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/overlays.jpg?raw=true" width="325" height="325" align="left" padding="6">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/menu-fav.jpg?raw=true" width="325" height="325" align="left" padding="6">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/quick-menu.jpg?raw=true" width="325" height="325" align="left" padding="6">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/bootlogo.jpg?raw=true" width="325" height="325" padding="6">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/menu-game.jpg?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/consoles.jpg?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/games.jpg?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/apps-search.jpg?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/retroarch.jpg?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/recents.jpg?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/overlays.jpg?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/menu-fav.jpg?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/quick-menu.jpg?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/bootlogo.jpg?raw=true" width="350" height="350">
 
 
 ---

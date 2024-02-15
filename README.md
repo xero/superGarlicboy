@@ -56,6 +56,8 @@ photoshop adobe color tables:
 
 <img src="https://github.com/xero/garlicboy/blob/main/skin/background.png?raw=true">
 
+[full widescreen version](https://github.com/xero/garlicboy/blob/main/wall.png?raw=true)
+
 # download
 
 https://github.com/xero/supergarlicboy
@@ -76,7 +78,7 @@ copy the `boot/boot_logo.bmp.gz` file to the root of your `MISC` partition
 
 copy the `retroarch/garlic.cfg` file to your `ROMS` partition under `/CFW/retroarch/.retroarch/assets/rgui`
 
-to enable it: launch retro arch's setting, then select
+to enable it: launch retroarch's settings, then select
 
 `User Interface` -> `Appearance` -> `Menu Color Theme` -> `Custom`
 

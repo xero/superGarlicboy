@@ -46,9 +46,11 @@ sorry these are photos of the console. i cant figure out how to take screenshots
 
 <img src="https://github.com/xero/garlicboy/blob/previews/img/dmg-colors.png?raw=true">
 
-`#4d533c` `#8b956d` `#9a9e3f` `#c4cfa1`
+photoshop adobe color tables:
 
-`#1b2a09` `#1f1f1f` `#0e450b` `#496b22`
+`#4d533c` `#8b956d` `#9a9e3f` `#c4cfa1` [dmg-limited.act](https://github.com/xero/superGarlicboy/raw/main/colors/dmg-limited.act)
+
+`#1b2a09` `#1f1f1f` `#0e450b` `#496b22` [dmg-full.act](https://github.com/xero/superGarlicboy/raw/main/colors/dmg-full.act)
 
 ## rad wallpaper
 

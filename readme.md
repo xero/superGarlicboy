@@ -141,8 +141,12 @@ which was later expanded by mahare
 * https://retropie.org.uk/forum/topic/12583/snes-mini-theme/899u
 * https://reddit.com/r/EmulationOnAndroid/comments/fxd2w9/dig_front_end_theme_minimix_10/
 
+interface font is 04b-03 by 04jp
+* https://dafont.com/04b-03.font
+* http://04.jp.org
+
 ## license
 
-*CC0 1.0 Universal / Public Domain*
+**CC0 1.0 Universal / Public Domain**
 
 since all of this is made from community freeware, i release mine in the spirit of kopimi as well!

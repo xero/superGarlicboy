@@ -52,15 +52,17 @@ photoshop adobe color tables:
 
 `#1b2a09` `#1f1f1f` `#0e450b` `#496b22` [dmg-full.act](https://github.com/xero/superGarlicboy/raw/main/colors/dmg-full.act)
 
-## rad wallpaper
+## rad wallpapers
 
 <img src="https://github.com/xero/garlicboy/blob/main/skin/background.png?raw=true">
 
-[full widescreen version](https://github.com/xero/garlicboy/blob/main/wall.png?raw=true)
+[centered version](https://github.com/xero/garlicboy/blob/main/skin/background-center.png?raw=true)
+
+[widescreen version](https://github.com/xero/garlicboy/blob/main/wall.png?raw=true)
 
 # download
 
-https://github.com/xero/supergarlicboy
+https://github.com/xero/superGarlicboy/archive/refs/heads/main.zip
 
 # install
 

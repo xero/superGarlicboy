@@ -9,7 +9,7 @@ trying to capture that retro-futurist portable arcade aesthetic we were promised
 * __[super garlicboy](#super-garlicboy)__
     * [previews](#previews)
     * [dmg inspired color palette](#dmg-inspired-color-palette)
-    * [rad wallpaper](#rad-wallpaper)
+    * [rad wallpapers](#rad-wallpapers)
 * __[download](#download)__
 * __[install](#install)__
     * [theme](#theme)
@@ -66,7 +66,7 @@ https://github.com/xero/superGarlicboy/archive/refs/heads/main.zip
 
 # install
 
-this theme is for garlic os, so it assumes you have already installed it. [follow the guide here](https://www.patreon.com/posts/garlicos-for-76561333).
+this theme is for garlic os, so it assumes you have already installed it. otherwise, [follow the official guide here](https://www.patreon.com/posts/garlicos-for-76561333).
 
 ## theme
 

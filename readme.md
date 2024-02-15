@@ -88,7 +88,11 @@ in this section of the guide i will suggest further optional device setup.
 
 ## bios
 
-think of bios files as `{retroarch,the emulator}`'s implementation of the retro console's firmware. [download the newest bios files](https://archive.org/details/bios_RG353) for all compatible consoles build for this device's chipset. then copy them into your `ROMS` partition under `BIOS`
+think of bios files as `{retroarch,the emulator}`'s implementation of the game console's firmware.
+
+[download the bios files](https://archive.org/details/bios_RG353) for all compatible consoles, built for this device's chipset.
+
+then copy them into your `ROMS` partition under `BIOS`
 
 ## roms
 
@@ -111,6 +115,10 @@ but a better idea is to search the full console sets, and just grab the individu
 * [super nintendo](https://archive.org/details/nointro.snes)
 
 to browse the archive's contents, from the sidebar choose: `download options` > `show all`
+
+once downloaded (there's no need to unzip individual rom files), they can be organized under the appropriate console folder name in the `ROMS` directory of your `ROMS` partition.
+
+for help, consult the [roms folders quick reference guide](https://onionui.github.io/docs/emulators/folders).
 
 # meta
 

@@ -80,7 +80,7 @@ to enable it: launch retro arch's setting, then select
 
 `User Interface` -> `Appearance` -> `Menu Color Theme` -> `Custom`
 
-then under `Custom Menu Theme` select `garlic`
+then under `Custom Menu Theme` select `garlicboy`
 
 # device setup
 
@@ -88,7 +88,7 @@ in this section of the guide i will suggest further optional device setup.
 
 ## bios
 
-think of bios files as retroarch's (the emulator's) implementation of the retro console's firmware. [download the newest bios files](https://archive.org/details/bios_RG353) for all compatible consoles and put them in your `ROMS` partition under `BIOS`
+think of bios files as `{retroarch,the emulator}`'s implementation of the retro console's firmware. [download the newest bios files](https://archive.org/details/bios_RG353) for all compatible consoles build for this device's chipset. then copy them into your `ROMS` partition under `BIOS`
 
 ## roms
 
@@ -109,6 +109,8 @@ but a better idea is to search the full console sets, and just grab the individu
 * [sega genesis](https://archive.org/details/nointro.ms-mkiii)
 * [sega megadrive](https://archive.org/details/nointro.md)
 * [super nintendo](https://archive.org/details/nointro.snes)
+
+to browse the archive's contents, from the sidebar choose: `download options` > `show all`
 
 # meta
 

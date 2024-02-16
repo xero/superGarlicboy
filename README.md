@@ -4,6 +4,8 @@ a [garlic os](https://www.patreon.com/posts/garlicos-for-76561333) theme for the
 
 trying to capture that retro-futurist portable arcade aesthetic we were promised.
 
+<img src="https://github.com/xero/garlicboy/blob/previews/img/title.jpg?raw=true">
+
 ## contents
 
 * __[super garlicboy](#super-garlicboy)__

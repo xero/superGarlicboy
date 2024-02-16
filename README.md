@@ -60,7 +60,7 @@ photoshop adobe color tables:
 
 [centered version](https://github.com/xero/garlicboy/blob/main/skin/background-center.png?raw=true)
 
-[widescreen version](https://github.com/xero/garlicboy/blob/main/wall.png?raw=true)
+[widescreen version](https://github.com/xero/garlicboy/blob/skin/background-wide.png?raw=true)
 
 # download
 

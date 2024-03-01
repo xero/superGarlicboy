@@ -37,7 +37,7 @@ trying to capture that retro-futurist portable arcade aesthetic we were promised
 <img src="https://github.com/xero/garlicboy/blob/previews/img/retroarch.png?raw=true" width="346" height="260" align="left">
 <img src="https://github.com/xero/garlicboy/blob/previews/img/apps-search.png?raw=true" width="346" height="260" align="left">
 <img src="https://github.com/xero/garlicboy/blob/previews/img/settings.png?raw=true" width="346" height="260" align="left">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/consoles-3.png?raw=true" width="346" height="260" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/consoles-2.png?raw=true" width="346" height="260" align="left">
 <img src="https://github.com/xero/garlicboy/blob/previews/img/bootlogo.png?raw=true" width="346" height="260" align="left">
 <img src="https://github.com/xero/garlicboy/blob/previews/img/quick-menu.png?raw=true" width="350" height="350" align="left">
 <img src="https://github.com/xero/garlicboy/blob/previews/img/overlays.png?raw=true" width="350" height="350">

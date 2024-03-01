@@ -4,7 +4,7 @@ a [garlic os](https://www.patreon.com/posts/garlicos-for-76561333) theme for the
 
 trying to capture that retro-futurist portable arcade aesthetic we were promised.
 
-<img src="https://github.com/xero/garlicboy/blob/previews/img/title.jpg?raw=true">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/title.png?raw=true">
 
 ## contents
 
@@ -29,16 +29,19 @@ trying to capture that retro-futurist portable arcade aesthetic we were promised
 
 ## previews
 
-<img src="https://github.com/xero/garlicboy/blob/previews/img/menu-game.jpg?raw=true" width="350" height="350" align="left">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/consoles.jpg?raw=true" width="350" height="350" align="left">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/games.jpg?raw=true" width="350" height="350" align="left">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/apps-search.jpg?raw=true" width="350" height="350" align="left">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/retroarch.jpg?raw=true" width="350" height="350" align="left">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/recents.jpg?raw=true" width="350" height="350" align="left">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/overlays.jpg?raw=true" width="350" height="350" align="left">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/menu-fav.jpg?raw=true" width="350" height="350" align="left">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/quick-menu.jpg?raw=true" width="350" height="350" align="left">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/bootlogo.jpg?raw=true" width="350" height="350">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/menu-game.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/consoles-1.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/consoles-3.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/menu-faves.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/menu-recent.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/menu-retro.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/recents-tetris.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/apps-search.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/settings.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/bootlogo.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/retroarch.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/quick-menu.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/overlays.png?raw=true" width="350" height="350" align="left">
 
 sorry these are photos of the console. i cant figure out how to take screenshots outside of retroarch
 
@@ -166,3 +169,23 @@ interface font is 04b-03 by 04jp
 **CC0 1.0 Universal / Public Domain**
 
 since all of this is made from community freeware, i release mine in the spirit of kopimi as well!
+
+
+## box art coming soon!
+
+<img src="https://github.com/xero/garlicboy/blob/previews/img/systems-32x.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/systems-arcade.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/systems-gb.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/systems-gba.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/systems-gbc.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/systems-gg.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/systems-md.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/systems-md2.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/systems-neogeo.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/systems-nes.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/systems-pce.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/systems-pico.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/systems-psx.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/systems-segacd.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/systems-sfc.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/systems-sfchax.png?raw=true" width="350" height="350" align="left">

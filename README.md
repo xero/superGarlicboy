@@ -39,10 +39,10 @@ trying to capture that retro-futurist portable arcade aesthetic we were promised
 <img src="https://github.com/xero/garlicboy/blob/previews/img/settings.png?raw=true" width="346" height="260" align="left">
 <img src="https://github.com/xero/garlicboy/blob/previews/img/consoles-3.png?raw=true" width="346" height="260" align="left">
 <img src="https://github.com/xero/garlicboy/blob/previews/img/bootlogo.png?raw=true" width="346" height="260" align="left">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/quick-menu.png?raw=true" width="346" height="260" align="left">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/overlays.png?raw=true" width="346" height="260">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/quick-menu.png?raw=true" width="350" height="350" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/overlays.png?raw=true" width="350" height="350">
 
-sorry these are photos of the console. i cant figure out how to take screenshots outside of retroarch
+sorry some of these are photos of the actual console
 
 ---
 
@@ -169,22 +169,23 @@ interface font is 04b-03 by 04jp
 
 since all of this is made from community freeware, i release mine in the spirit of kopimi as well!
 
+---
 
 ## box art coming soon!
 
-<img src="https://github.com/xero/garlicboy/blob/previews/img/systems-32x.png?raw=true" width="346" height="260" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/systems-nes.png?raw=true" width="346" height="260" align="left">
 <img src="https://github.com/xero/garlicboy/blob/previews/img/systems-arcade.png?raw=true" width="346" height="260" align="left">
 <img src="https://github.com/xero/garlicboy/blob/previews/img/systems-gb.png?raw=true" width="346" height="260" align="left">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/systems-gba.png?raw=true" width="346" height="260" align="left">
 <img src="https://github.com/xero/garlicboy/blob/previews/img/systems-gbc.png?raw=true" width="346" height="260" align="left">
 <img src="https://github.com/xero/garlicboy/blob/previews/img/systems-gg.png?raw=true" width="346" height="260" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/systems-32x.png?raw=true" width="346" height="260" align="left">
 <img src="https://github.com/xero/garlicboy/blob/previews/img/systems-md.png?raw=true" width="346" height="260" align="left">
 <img src="https://github.com/xero/garlicboy/blob/previews/img/systems-md2.png?raw=true" width="346" height="260" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/systems-segacd.png?raw=true" width="346" height="260" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/systems-psx.png?raw=true" width="346" height="260" align="left">
 <img src="https://github.com/xero/garlicboy/blob/previews/img/systems-neogeo.png?raw=true" width="346" height="260" align="left">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/systems-nes.png?raw=true" width="346" height="260" align="left">
 <img src="https://github.com/xero/garlicboy/blob/previews/img/systems-pce.png?raw=true" width="346" height="260" align="left">
 <img src="https://github.com/xero/garlicboy/blob/previews/img/systems-pico.png?raw=true" width="346" height="260" align="left">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/systems-psx.png?raw=true" width="346" height="260" align="left">
-<img src="https://github.com/xero/garlicboy/blob/previews/img/systems-segacd.png?raw=true" width="346" height="260" align="left">
+<img src="https://github.com/xero/garlicboy/blob/previews/img/systems-gba.png?raw=true" width="346" height="260" align="left">
 <img src="https://github.com/xero/garlicboy/blob/previews/img/systems-sfc.png?raw=true" width="346" height="260" align="left">
 <img src="https://github.com/xero/garlicboy/blob/previews/img/systems-sfchax.png?raw=true" width="346" height="260">

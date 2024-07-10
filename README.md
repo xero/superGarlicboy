@@ -173,7 +173,7 @@ since all of this is made from community freeware, i release mine in the spirit 
 
 ## box art also available
 
-checkout my [boxart repo](https://github.com/xero/boxart) for pre-scraped images, perfectly sized and styled for the double xx. it contains individual complete sets for the arcade and most and portable consoles (nes, snes, gba, mame, ect)!
+checkout my [boxart repo](https://github.com/xero/boxart) for pre-scraped images, perfectly sized and styled for the double xx. it contains individual complete sets for most home and portable consoles (nes, snes, gba, ect), full arcade stylized mame, system apps, and lots more!
 
 <img src="https://github.com/xero/garlicboy/blob/previews/img/systems-nes.png?raw=true" width="346" height="260" align="left">
 <img src="https://github.com/xero/garlicboy/blob/previews/img/systems-arcade.png?raw=true" width="346" height="260" align="left">
